@@ -5,3 +5,16 @@
   
 # For more information
 - For more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/README.md)
+
+# Progress Miiverse Recreation
+### Wii U Portal
+- [] 
+
+### 3DS CTR
+- [] 
+
+### Website 
+- [] 
+
+### API
+- [] 
