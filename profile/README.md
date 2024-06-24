@@ -12,7 +12,7 @@
 - [x] Innoverse UI
 - [x] Added communities
 - [ ] Posts
-- [x] Settings Profile
+- [ ] Settings Profile
 - [x] My user
 - [ ] Activity Feed
 - [ ] Notifications
