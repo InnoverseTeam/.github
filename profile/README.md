@@ -8,13 +8,13 @@
 
 # Progress Miiverse Recreation
 ### Wii U Portal
-- [] 
+- [ ] 
 
 ### 3DS CTR
-- [] 
+- [ ] 
 
 ### Website 
-- [] 
+- [ ] 
 
 ### API
-- [] 
+- [ ] 
