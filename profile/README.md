@@ -8,7 +8,7 @@
 
 # Progress Miiverse Recreation
 ### Wii U Portal
-- [ ] 
+- [x] Added communities
 
 ### 3DS CTR
 - [ ] 
