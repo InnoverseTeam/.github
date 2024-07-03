@@ -55,11 +55,11 @@
 
 ### API
 - [ ] POST v1/posts (Posting to a community)
-- [ ] POST v1/posts/xx/empathies (Creating a "Yeah!")
+- [ ] POST v1/posts/xx/empathies (Add a yeah)
 - [ ] GET v1/communities (Grabbing sub communities)
-- [ ] POST v1/communities/favorite (Favoriting communities)
-- [ ] GET v1/notifications (Notifications for games to pull from)
-- [ ] GET v1/people (Friends that appear on your Wii U menu in orange pants)
-- [ ] POST v1/people (Creating a new user)
+- [ ] POST v1/communities/favorite (For favoriting communities)
+- [ ] GET v1/notifications (Notifications for games and other stuff)
+- [ ] GET v1/people (Friends)
+- [ ] POST v1/people (Create a new user on Innoverse)
 - [ ] GET v1/topics (Wara Wara Plaza)
 - [ ] POST v1/friend_messages (In-game messaging)
