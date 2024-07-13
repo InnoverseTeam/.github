@@ -54,12 +54,12 @@
 - [x] Login/Signup.
 
 ### API
-- [ ] POST v1/posts (Posting to a community)
-- [ ] POST v1/posts/xx/empathies (Add a yeah)
-- [ ] GET v1/communities (Grabbing sub communities)
-- [ ] POST v1/communities/favorite (For favoriting communities)
-- [ ] GET v1/notifications (Notifications for games and other stuff)
-- [ ] GET v1/people (Friends)
-- [ ] POST v1/people (Create a new user on Innoverse)
-- [ ] GET v1/topics (Wara Wara Plaza)
+- [ ] POST Posting to a community
+- [ ] POST Add a yeah
+- [ ] GET Grabbing sub communities
+- [ ] POST For favoriting communities
+- [ ] GET Notifications for games and other stuff
+- [ ] GET Friends
+- [ ] POST Create a new user on Innoverse
+- [ ] GET Wara Wara Plaza
 - [ ] POST v1/friend_messages (In-game messaging)
