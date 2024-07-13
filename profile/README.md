@@ -62,4 +62,5 @@
 - [ ] GET Friends
 - [ ] POST Create a new user on Innoverse
 - [ ] GET Wara Wara Plaza
-- [ ] POST v1/friend_messages (In-game messaging)
+- [ ] POST In-game messaging
+- [x] GET /v1/endpoint HTTP/1.1
