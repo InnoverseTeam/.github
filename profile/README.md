@@ -60,7 +60,7 @@
 - [ ] POST For favoriting communities
 - [ ] GET Notifications for games and other stuff
 - [ ] GET Friends
-- [ ] POST Create a new user on Innoverse
+- [x] POST Create a new user on Innoverse
 - [ ] GET Wara Wara Plaza
 - [ ] POST In-game messaging
 - [x] GET /v1/endpoint HTTP/1.1
