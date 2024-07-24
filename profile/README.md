@@ -5,7 +5,7 @@
   
 # For more information
 - For more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/README.md)
-- You can join the [Discord Server](https://discord.gg/HTecc8YTZz)
+- You can join the [Discord Server](https://discord.gg/FEYCEfNh)
 
 # Progress Miiverse Recreation
 ### Wii U Portal
