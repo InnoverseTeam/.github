@@ -20,7 +20,7 @@
 - [ ] Blocking and reporting user/posts
 - [ ] Drawing
 - [ ] Screenshot taking
-- [x] Login Innoverse account to Wii U.
+- [x] Innoverse Account Wii U.
 
 ### 3DS CTR
 - [ ] Innoverse UI
@@ -35,7 +35,7 @@
 - [ ] Blocking and reporting user/posts
 - [ ] Drawing
 - [ ] Screenshot taking
-- [ ] Login Innoverse account to 3DS.
+- [ ] Innoverse Account 3DS.
 
 ### Website 
 - [x] Innoverse UI
@@ -50,7 +50,7 @@
 - [ ] Blocking and reporting user/posts
 - [ ] Drawing
 - [ ] Screenshot taking
-- [x] Login/Signup.
+- [x] Innoverse Account.
 
 ### API
 - [ ] POST Posting to a community
