@@ -39,7 +39,7 @@
 
 ### Website 
 - [x] Innoverse UI
-- [ ] Added communities
+- [x] Added communities
 - [ ] Posts
 - [ ] Settings Profile
 - [x] My user
@@ -48,8 +48,6 @@
 - [ ] Messages
 - [ ] Theme color
 - [ ] Blocking and reporting user/posts
-- [ ] Drawing
-- [ ] Screenshot taking
 - [x] Innoverse Account.
 
 ### API
