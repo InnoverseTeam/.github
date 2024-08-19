@@ -27,7 +27,7 @@
 - [x] Added communities
 - [ ] Posts
 - [ ] Settings Profile
-- [ ] My user
+- [x] My user
 - [ ] Activity Feed
 - [ ] Notifications
 - [ ] Messages
@@ -35,7 +35,7 @@
 - [ ] Blocking and reporting user/posts
 - [ ] Drawing
 - [ ] Screenshot taking
-- [ ] Innoverse Account 3DS.
+- [x] Innoverse Account 3DS.
 
 ### Website 
 - [x] Innoverse UI
