@@ -23,8 +23,8 @@
 - [x] Innoverse Account Wii U.
 
 ### 3DS CTR
-- [ ] Innoverse UI
-- [ ] Added communities
+- [x] Innoverse UI
+- [x] Added communities
 - [ ] Posts
 - [ ] Settings Profile
 - [ ] My user
@@ -41,12 +41,13 @@
 - [x] Innoverse UI
 - [x] Added communities
 - [ ] Posts
-- [ ] Settings Profile
+- [x] Settings Profile
 - [x] My user
 - [ ] Activity Feed
 - [ ] Notifications
 - [ ] Messages
 - [ ] Theme color
+- [x] Friends Requests
 - [ ] Blocking and reporting user/posts
 - [x] Innoverse Account.
 
