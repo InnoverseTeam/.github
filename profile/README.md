@@ -52,13 +52,13 @@
 - [x] Innoverse Account.
 
 ### API
-- [ ] POST Posting to a community
-- [ ] POST Add a yeah
-- [ ] GET Grabbing sub communities
-- [ ] POST For favoriting communities
-- [ ] GET Notifications for games and other stuff
-- [ ] GET Friends
-- [x] POST Create a new user on Innoverse
-- [ ] GET Wara Wara Plaza
-- [ ] POST In-game messaging
-- [x] GET /v1/endpoint HTTP/1.1
+- [ ] [POST] v1/posts (Post in a community)
+- [ ] [POST] v1/posts/xx/empathies (Add a yeah)
+- [ ] [GET] Grabbing sub communities
+- [ ] [POST] v1/communities/favorite (Add Favorite Communities)
+- [ ] [GET] Notifications for games and other stuff
+- [ ] [GET] Friends
+- [x] [POST] v1/people (Create and log in to an account)
+- [+] [GET] v1/topics (Wara Wara Plaza)
+- [ ] [POST] v1/friend_messages (Posts in games)
+- [x] [GET] /v1/endpoint (Discovery Endpoint)
