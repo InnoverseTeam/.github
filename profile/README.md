@@ -59,6 +59,6 @@
 - [ ] [GET] Notifications for games and other stuff
 - [ ] [GET] Friends
 - [x] [POST] v1/people (Create and log in to an account)
-- [+] [GET] v1/topics (Wara Wara Plaza)
+- [x] [GET] v1/topics (Wara Wara Plaza)
 - [ ] [POST] v1/friend_messages (Posts in games)
 - [x] [GET] /v1/endpoint (Discovery Endpoint)
