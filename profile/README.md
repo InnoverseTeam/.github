@@ -6,6 +6,7 @@
 
 # Goals
 - That we finish creating a good clone of miiverse and that it is used and known.
+- Complete the creation of the account service + token to use Innoverse on your consoles.
 - To make API for Innoverse.
 - To make messages and notifications on Innoverse.
 
