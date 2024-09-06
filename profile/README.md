@@ -1,7 +1,17 @@
+![Banner](https://cdn.innoverse.club/img/text-logo)
+
 # InnoverseTeam
-- Innoverse is a project for recreate Miiverse for Wii U, 3DS Consoles and Desktop.
-- The project is created by cedkeChat01.
-  
-# For more information
-- For more information go [here](https://github.com/InnoverseTeam/Innoverse/blob/main/README.md)
-- You can join the [Discord Server](https://dsc.gg/innoverseclub)
+- Innoverse is a recreation of Miiverse for Wii U, 3DS Consoles and Desktop, this project is indeed open source.
+- The project was is created by cedkeChat01.
+
+# Goals
+- That we finish creating a good clone of miiverse and that it is used and known.
+- To make API for Innoverse.
+- To make messages and notifications on Innoverse.
+
+# Discord Server
+- If you want to join our discord server click [here](https://dsc.gg/innoverseclub).
+
+# The team
+- [cedkeChat01](https://github.com/00cedke) (Owner of Innoverse).
+- [ParlaknFx](https://github.com/parlakn) (Developer of Innoverse).
