@@ -13,6 +13,14 @@
 # Discord Server
 - If you want to join our discord server click [here](https://dsc.gg/innoverseclub).
 
+# What is finished in the project?
+- [ ] Innoverse Website
+- [ ] Innoverse WUP
+- [ ] Innoverse CTR
+- [ ] API
+- [ ] Account
+- [x] Discovery
+
 # The team
 - [cedkeChat01](https://github.com/00cedke) (Owner of Innoverse).
 - [ParlaknFx](https://github.com/parlakn) (Developer of Innoverse).
