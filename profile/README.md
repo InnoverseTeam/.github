@@ -13,6 +13,14 @@
 # Discord Server
 - If you want to join our discord server click [here](https://dsc.gg/innoverseclub).
 
+# What consoles is Innoverse available on?
+| Console        | Status           |
+| -------------- | ---------------- |
+| Wii U          | ❌ Unfinished    |
+| Cemu           | ❌ Unfinished    |
+| 3DS            | ❌ Unfinished    |
+| Citra          | ❌ Unfinished    |
+
 # What is finished in the project?
 - [ ] Innoverse Website
 - [ ] Innoverse WUP
