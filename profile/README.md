@@ -3,6 +3,7 @@
 # InnoverseTeam
 - Innoverse is a recreation of Miiverse for Wii U, 3DS Consoles and Desktop, this project is indeed open source.
 - The project was is created by cedkeChat01.
+- This project is part of Retendo Network.
 
 # Goals
 - That we finish creating a good clone of miiverse and that it is used and known.
@@ -26,7 +27,6 @@
 - [ ] Innoverse WUP
 - [ ] Innoverse CTR
 - [ ] API
-- [ ] Account
 - [x] Discovery
 
 # The team
