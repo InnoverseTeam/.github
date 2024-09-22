@@ -26,7 +26,7 @@
 - [ ] Innoverse WUP
 - [ ] Innoverse CTR
 - [ ] API
-- [ ] Account
+- [x] Account
 - [x] Discovery
 
 # The team
