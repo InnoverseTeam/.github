@@ -1,6 +1,6 @@
 # InnoverseTeam
-- Innoverse is a recreation of Miiverse for Wii U, 3DS Consoles and Desktop for Retendo Network, this project is indeed open source.
-- The project was is created by cedkeChat01.
+- Innoverse is a recreation of Miiverse for Wii U, 3DS Consoles and Desktop for Nextendo Network, this project is indeed open source.
+- This project was created by cedkeChat01.
 
 # Discord Server
 - If you want to join our discord server click [here](https://dsc.gg/innoverseclub).
@@ -13,7 +13,7 @@
 | 3DS            | ❌ Unfinished    |
 | Citra          | ❌ Unfinished    |
 
-# What is finished in the project?
+# What's work ?
 - [ ] Innoverse Website
 - [ ] Innoverse WUP
 - [ ] Innoverse CTR
@@ -22,4 +22,3 @@
 
 # The team of Innoverse
 - [cedkeChat01](https://github.com/00cedke) (Owner of Innoverse).
-- [ParlaknFx](https://github.com/parlakn) (Developer of Innoverse).
