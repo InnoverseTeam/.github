@@ -18,7 +18,7 @@
 - [ ] Innoverse WUP
 - [ ] Innoverse CTR
 - [ ] API
-- [ ] Discovery
+- [x] Discovery
 
 # The team of Innoverse
 - [cedkeChat01](https://github.com/00cedke) (Owner of Innoverse).
